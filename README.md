@@ -21,4 +21,4 @@ This repository contains a calculator. was maked with JavaScript, HTML and CSS
 
 ## How to see this project? 🔎
 
-This project you can opened with [Visual Studio Code](https://code.visualstudio.com/)
+This project you can opened with [JS Calculator RR©](https://richard-rico.github.io./JS-Calculator/index.html)
